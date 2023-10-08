@@ -1,0 +1,9 @@
+var a=10
+"hello all"
+10==20
+false
+//comment
+{"joody"}
+/* these are
+multi line comments */
+return
